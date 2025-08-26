@@ -17,7 +17,7 @@ pwd
 ```
 
 ### The output of the command is as below -
-![Image](./images/pwd.png)
+![Image](C:\Users\kohinoor\Pictures\Screenshots\Screenshot 2025-08-18 200538)
 
 ---
 
