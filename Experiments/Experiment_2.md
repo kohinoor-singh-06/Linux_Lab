@@ -1,5 +1,4 @@
 # Experiment 3
-# Experiment 3 DETAILS 
 ## Basic Linux Commands
 ### ✅ 1. **Navigation Commands**
 
